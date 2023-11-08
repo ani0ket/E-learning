@@ -1,7 +1,9 @@
 # React + Vite
 
-# T0 run the Project
+# To run the Project
 step 1- npm i
+
+
 step 2- npm run dev
 
 
